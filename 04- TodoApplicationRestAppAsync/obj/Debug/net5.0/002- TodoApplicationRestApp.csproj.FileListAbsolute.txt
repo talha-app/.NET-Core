@@ -1,0 +1,36 @@
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.AssemblyInfoInputs.cache
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.AssemblyInfo.cs
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\appsettings.json
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.exe
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.deps.json
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.runtimeconfig.json
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.runtimeconfig.dev.json
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\ref\002- TodoApplicationRestApp.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\002- TodoApplicationRestApp.pdb
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Mapster.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Mapster.Core.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\staticwebassets\002- TodoApplicationRestApp.StaticWebAssets.Manifest.cache
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\staticwebassets\002- TodoApplicationRestApp.StaticWebAssets.xml
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\scopedcss\bundle\002- TodoApplicationRestApp.styles.css
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.RazorTargetAssemblyInfo.cache
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.csproj.CopyComplete
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\ref\002- TodoApplicationRestApp.dll
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.pdb
+C:\Users\ThinkPad T490s\Downloads\Trainings\.NET\MyProjects\WebApi\002- TodoApplicationRestApp\obj\Debug\net5.0\002- TodoApplicationRestApp.genruntimeconfig.cache

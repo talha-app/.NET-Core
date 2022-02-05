@@ -1,0 +1,2 @@
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplication\obj\Debug\AppointmentApplication.csprojAssemblyReference.cache
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplication\obj\Debug\AppointmentApplication.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\bin\Debug\netcoreapp3.1\AppointmentApplicationRepository.deps.json
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\bin\Debug\netcoreapp3.1\AppointmentApplicationRepository.dll
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.csprojAssemblyReference.cache
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.AssemblyInfoInputs.cache
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.AssemblyInfo.cs
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\bin\Debug\netcoreapp3.1\AppointmentApplicationRepository.pdb
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.dll
+C:\Users\Talha\Downloads\Trainings\DB\SampleProjects\001-AppointmentApplication\AppointmentApplicationRepository\obj\Debug\netcoreapp3.1\AppointmentApplicationRepository.pdb
